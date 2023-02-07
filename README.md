@@ -1,5 +1,6 @@
 # PotK_AssetDL
-Use to download all ( Phantom of the Kill / 殺戮魅影 / ファントム オブ キル ) resources without actually play the game (日版)
+Use to download all ( Phantom of the Kill / 殺戮魅影 / ファントム オブ キル ) resources without actually play the game (日版)<br>
+***This program will only download hotfix file, not include files in apk.**
 
 由於資源是動態下載的，意思是如果要正常取得所有的話，必須要遊戲畢業才行 (而且必須手動完整瀏覽過一次所有關卡與介面)
 
