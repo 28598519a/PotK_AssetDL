@@ -1,4 +1,7 @@
 # PotK_AssetDL
+
+**2024/05/27: This game is no longer in operation**
+
 Use to download all ( Phantom of the Kill / 殺戮魅影 / ファントム オブ キル ) resources without actually play the game (日版)<br>
 ***This program will only download hotfix file, not include files in apk.**
 
